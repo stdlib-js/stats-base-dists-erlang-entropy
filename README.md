@@ -69,7 +69,7 @@ where `Γ` and `Ψ` denote the [gamma][gamma-function] and [digamma][digamma] fu
 ## Usage
 
 ```javascript
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-erlang-entropy@deno/mod.js';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-erlang-entropy@v0.2.2-deno/mod.js';
 ```
 
 #### entropy( k, lambda )
@@ -141,7 +141,7 @@ v = entropy( 2, -1.0 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@deno/mod.js';
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-erlang-entropy@deno/mod.js';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-erlang-entropy@v0.2.2-deno/mod.js';
 
 var lambda;
 var k;
