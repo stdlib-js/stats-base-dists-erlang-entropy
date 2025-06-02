@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-09)
+## Unreleased (2025-06-02)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`391830c`](https://github.com/stdlib-js/stdlib/commit/391830ccb553b0d53a43029d4aea3a07070b25df) - **docs:** replace manual `for` loop in examples [(#7170)](https://github.com/stdlib-js/stdlib/pull/7170) _(by Harsh)_
 -   [`4eaf70d`](https://github.com/stdlib-js/stdlib/commit/4eaf70d434b649823d5430665dd917456641e2de) - **chore:** clean-up _(by Athan Reines)_
 -   [`e4185d6`](https://github.com/stdlib-js/stdlib/commit/e4185d6547e9329fcfdd4c55505ce17f60d1f894) - **feat:** add C implementation for `stats/base/dists/erlang/entropy` [(#4263)](https://github.com/stdlib-js/stdlib/pull/4263) _(by Neeraj Pathak, Philipp Burckhardt, stdlib-bot)_
 -   [`611fed3`](https://github.com/stdlib-js/stdlib/commit/611fed3fdb1d06516f0ad5fc9724356307810d1c) - **bench:** refactor random number generation in `stats/base/dists/erlang` [(#4916)](https://github.com/stdlib-js/stdlib/pull/4916) _(by Karan Anand)_
@@ -48,9 +49,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Harsh
 -   Karan Anand
 -   Neeraj Pathak
 -   Philipp Burckhardt
