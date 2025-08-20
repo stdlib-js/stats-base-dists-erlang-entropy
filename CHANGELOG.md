@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-02)
+## Unreleased (2025-08-20)
 
 <section class="features">
 
@@ -34,6 +34,9 @@ This release closes the following issue:
 
 <details>
 
+-   [`e678757`](https://github.com/stdlib-js/stdlib/commit/e678757c9a62631a907278ec13a5d7b27c0f1e15) - **docs:** fix return annotation values _(by Philipp Burckhardt)_
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`391830c`](https://github.com/stdlib-js/stdlib/commit/391830ccb553b0d53a43029d4aea3a07070b25df) - **docs:** replace manual `for` loop in examples [(#7170)](https://github.com/stdlib-js/stdlib/pull/7170) _(by Harsh)_
 -   [`4eaf70d`](https://github.com/stdlib-js/stdlib/commit/4eaf70d434b649823d5430665dd917456641e2de) - **chore:** clean-up _(by Athan Reines)_
 -   [`e4185d6`](https://github.com/stdlib-js/stdlib/commit/e4185d6547e9329fcfdd4c55505ce17f60d1f894) - **feat:** add C implementation for `stats/base/dists/erlang/entropy` [(#4263)](https://github.com/stdlib-js/stdlib/pull/4263) _(by Neeraj Pathak, Philipp Burckhardt, stdlib-bot)_
